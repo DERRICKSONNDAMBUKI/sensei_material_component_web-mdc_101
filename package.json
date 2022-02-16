@@ -20,5 +20,8 @@
   },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
+  },
+  "dependencies": {
+    "@material/textfield": "^6.0.0"
   }
 }

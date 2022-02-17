@@ -22,7 +22,7 @@
     "fsevents": "^2.3.2"
   },
   "dependencies": {
-    "@material/button": "^13.0.0",
+    "@material/button": "^6.0.0",
     "@material/ripple": "^6.0.0",
     "@material/textfield": "^6.0.0"
   }
